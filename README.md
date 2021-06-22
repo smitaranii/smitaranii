@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on MERN Stack Development Projects
 - ✉️ You can reach me at email:- smitarani2002sumi@gmail.com
-- 💁 You can also DM me at instagram:-  _.smitarani._
+- 💁 You can also DM me at instagram:-    _.smitarani._ 
 
 
